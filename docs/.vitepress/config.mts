@@ -12,7 +12,7 @@ export default defineConfig({
       { text: '关于', link: '/about' }
     ],
     sidebar: [
-      {
+      /* {
         text: '开始使用',
         items: [
           { text: '文档库说明', link: '/guide/' },
@@ -32,6 +32,7 @@ export default defineConfig({
           { text: '索引', link: '/notes/' }
         ]
       },
+    */
       {
       text: 'AI之光',
       items: [
