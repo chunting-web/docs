@@ -35,8 +35,7 @@ export default defineConfig({
       {
       text: 'AI之光',
       items: [
-        { text: 'AI之光', link: '/ai-light/' },
-        { text: '备注修改参考文档', link: '/ai-light/备注修改参考文档' }
+        { text: '备注修改参考文档', link: '/ai-light/' },
       ]
 }
     ],
