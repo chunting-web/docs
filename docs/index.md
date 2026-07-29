@@ -10,8 +10,8 @@ hero:
       text: 浏览文档
       link: /guide/
     - theme: alt
-      text: 每日复盘
-      link: /tools/daily-review
+      text: AI 之光
+      link: /ai-light/
 
 features:
   - title: 清晰分类
