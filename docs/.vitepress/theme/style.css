@@ -1,0 +1,22 @@
+:root {
+  --vp-c-brand-1: #0f766e;
+  --vp-c-brand-2: #0d9488;
+  --vp-c-brand-3: #14b8a6;
+  --vp-button-brand-bg: #0f766e;
+  --vp-button-brand-hover-bg: #115e59;
+  --vp-home-hero-name-color: #0f766e;
+  --vp-c-bg: #fcfdfc;
+}
+
+.VPNavBarTitle .title {
+  font-weight: 700;
+}
+
+.VPDoc .content-container {
+  max-width: 760px;
+}
+
+.VPHome .VPHero .name,
+.VPHome .VPHero .text {
+  letter-spacing: 0;
+}
