@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 浏览文档
-      link: /guide/
+      link: /ai-light/
     - theme: alt
       text: AI 之光
       link: /ai-light/
