@@ -31,7 +31,14 @@ export default defineConfig({
         items: [
           { text: '索引', link: '/notes/' }
         ]
-      }
+      },
+      {
+      text: 'AI之光',
+      items: [
+        { text: 'AI之光', link: '/ai-light/' },
+        { text: '备注修改参考文档', link: '/ai-light/备注修改参考文档' }
+      ]
+}
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/chunting-web' }
