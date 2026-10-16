@@ -29,7 +29,8 @@ export default defineConfig({
       {
         text: '随笔',
         items: [
-          { text: '索引', link: '/notes/' }
+          { text: '索引', link: '/notes/' },
+          { text: '泽泽三周岁-演讲稿', link: '/notes/zz-bd' }
         ]
       },
     */
